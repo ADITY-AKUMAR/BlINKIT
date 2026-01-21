@@ -19,3 +19,6 @@ Total Sales: $1.20M
 Average Sales: $141
 Total Items Sold: 9K
 Average Rating: 3.92
+
+<img width="1910" height="903" alt="image" src="https://github.com/user-attachments/assets/bf1941d7-de89-4937-a4e6-2f52c4fe2cec" />
+
